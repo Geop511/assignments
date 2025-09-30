@@ -1,1 +1,1 @@
-Datatalk 2025 machine learning zoomcamp asssignment one
+Datatalk 2025 machine learning zoomcamp asssignments
